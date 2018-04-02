@@ -1,24 +1,3 @@
-> 由于使用了 Cloudflare 的 CDN脚本，该网站被墙，所以可能出现访问缓慢的现象。
-
-
-
-
-## 前言
-
-源码可直接运行，支持markdown语法，支持邮箱注册账号，采用质感风格，任何问题均可参考[《Flask Web开发：基于Python的Web应用开发实战》]
-
-
-## 效果预览
-
-![image.png](http://otwwkzjm5.bkt.clouddn.com/17-7-31/94649976.jpg)
-
-![markdown语法](http://otwwkzjm5.bkt.clouddn.com/17-7-31/74577052.jpg)
-
-![登录](http://otwwkzjm5.bkt.clouddn.com/17-7-31/13913760.jpg)
-
-![首页](http://otwwkzjm5.bkt.clouddn.com/17-7-31/29553544.jpg)
-
-![响应式布局](http://otwwkzjm5.bkt.clouddn.com/17-7-31/32746142.jpg)
 
 ## 部署过程
 首先为了验证程序功能，需要在本机上部署，若需要在服务器端运行，使用 nginx 反向代理工具，可以将端口号暴露出去，这样其他人就可以在公网访问你的博客了，具体过程如下。
