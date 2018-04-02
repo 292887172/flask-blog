@@ -5,11 +5,8 @@
 
 ## 前言
 
-源码可直接运行，支持markdown语法，支持邮箱注册账号，采用质感风格，任何问题均可参考[《Flask Web开发：基于Python的Web应用开发实战》](https://book.douban.com/subject/26274202/)。
+源码可直接运行，支持markdown语法，支持邮箱注册账号，采用质感风格，任何问题均可参考[《Flask Web开发：基于Python的Web应用开发实战》]
 
-博客网址：http://www.unrealblue.cc/
-
-项目地址：https://github.com/linanwx/unrealblue-blog
 
 ## 效果预览
 
